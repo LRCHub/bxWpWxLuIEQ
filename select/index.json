@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "盛れ！ミ・アモーレ",
+  "base_artist": "Juice=Juice",
+  "createdAt": "2026-02-18T07:17:33.668545Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "盛れ!ミ・アモーレ",
+      "artist": "Juice=Juice",
+      "has_synced": false,
+      "path": "select/pl_01_盛れ!ミ・アモーレ_Juice=Juice.txt"
+    }
+  ]
+}
